@@ -155,9 +155,18 @@ Windows 11
 
 ---
 
-# 🏆 Award
+# 🙏 Acknowledgements
 
-**🥇 First Place — TouchDesigner Course Exhibition???**
+This project would not have been possible without the guidance and support of many people.
+
+My sincere thanks to the course instructor for patiently answering my countless questions throughout the development process and encouraging me to keep improving the project.
+
+Special thanks to the instructor who generously shared the TouchDesigner components and plugins that made several interactive features possible.
+
+Finally, thank you to everyone who experienced the installation and provided valuable feedback during the course exhibition.
+
+ps.If you encounter a bug, please remember: it was probably there for artistic purposes. :)
+(what???)
 
 ---
 
