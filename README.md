@@ -78,11 +78,11 @@ After entering the correct password, the system simulates a Windows Blue Screen 
 
 ![](images/m_qq.png)
 
-### Windows Blue Screen
+### Music Player
 
 ![](images/m_stormPlayer1.png)
 
-### Windows 11
+### Windows Bluescreen
 
 ![](images/m_updating.png)
 
