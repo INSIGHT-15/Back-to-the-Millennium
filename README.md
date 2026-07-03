@@ -2,7 +2,15 @@
 
 > **An interactive TouchDesigner installation that recreates digital memories from Windows XP to Windows 11 through AI, gesture recognition and immersive interaction.**
 
-🏆 **First Place in TouchDesigner Course Exhibition**
+---
+
+## ☕ Developer's Note
+
+This project was created as a university course assignment and is shared here mainly for portfolio purposes.
+
+You'll probably notice a few rough edges, shortcuts, and some classic student-level engineering decisions, even some occasional "it works, don't touch it" moments.😄
+
+It's far from perfect, but it successfully captures the experience I wanted to create—and that's what I'm happiest about. And I hope you enjoy exploring it.
 
 ---
 
