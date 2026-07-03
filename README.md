@@ -8,9 +8,25 @@
 
 This project was created as a university course assignment and is shared here mainly for portfolio purposes.
 
-You'll probably notice a few rough edges, shortcuts, and some classic student-level engineering decisions, even some occasional "it works, don't touch it" moments.😄
+You'll probably notice a few rough edges, shortcuts, and some classic student-level engineering decisions—including a few "it works, don't touch it" moments.😄
 
 It's far from perfect, but it successfully captures the experience I wanted to create—and that's what I'm happiest about. And I hope you enjoy exploring it.
+
+---
+
+## 📑 Table of Contents
+
+- [Overview](#-overview)
+- [Interactive Preview](#-interactive-preview)
+- [Technologies](#-technologies)
+- [Screenshots](#-screenshots)
+- [Design Concept](#-design-concept)
+- [Interaction Flow](#-interaction-flow)
+- [My Contributions](#-my-contributions)
+- [Project Poster](#-project-poster)
+- [Future Improvements](#-future-improvements)
+- [Acknowledgements](#-acknowledgements)
+- [License](#-license)
 
 ---
 
@@ -30,7 +46,9 @@ Rather than simply recreating old operating systems, the project encourages user
 
 Users reveal the Windows XP logo by making a fist, allowing particles to gather and gradually form the startup animation.
 
-![](images/loading.gif)
+<p align="center">
+  <img src="images/loading.gif" width="720">
+</p>
 
 ---
 
@@ -38,7 +56,9 @@ Users reveal the Windows XP logo by making a fist, allowing particles to gather 
 
 Hand gestures are used to control multimedia playback, creating a more immersive interaction experience.
 
-![](images/music.gif)
+<p align="center">
+  <img src="images/music.gif" width="720">
+</p>
 
 ---
 
@@ -46,7 +66,9 @@ Hand gestures are used to control multimedia playback, creating a more immersive
 
 Users communicate with an AI "online friend" to obtain clues and continue the story.
 
-![](images/aichat.gif)
+<p align="center">
+  <img src="images/aichat.gif" width="720">
+</p>
 
 ---
 
@@ -54,7 +76,9 @@ Users communicate with an AI "online friend" to obtain clues and continue the st
 
 After entering the correct password, the system simulates a Windows Blue Screen before upgrading into Windows 11.
 
-![](images/update.gif)
+<p align="center">
+  <img src="images/update.gif" width="720">
+</p>
 
 ---
 
