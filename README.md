@@ -2,7 +2,7 @@
 
 > **An interactive TouchDesigner installation that recreates digital memories from Windows XP to Windows 11 through AI, gesture recognition and immersive interaction.**
 
-![Cover](images/cover.png)
+🏆 **First Place in TouchDesigner Course Exhibition**
 
 ---
 
@@ -68,19 +68,23 @@ After entering the correct password, the system simulates a Windows Blue Screen 
 
 ### Windows XP Startup
 
-![](images/xp_startup.png)
+![](images/m_loading.png)
 
 ### Windows XP Desktop
 
-![](images/xp_desktop.png)
+![](images/m_notepad.png)
 
 ### AI Conversation
 
-![](images/chat.png)
+![](images/m_qq.png)
+
+### Windows Blue Screen
+
+![](images/m_stormPlayer1.png)
 
 ### Windows 11
 
-![](images/windows11.png)
+![](images/m_updating.png)
 
 ---
 
@@ -129,7 +133,7 @@ Windows 11
 
 # 📄 Project Poster
 
-![](images/poster.png)
+> *(Coming soon)*
 
 ---
 
@@ -145,7 +149,7 @@ Windows 11
 
 # 🏆 Award
 
-**🥇 First Place — TouchDesigner Course Exhibition**
+**🥇 First Place — TouchDesigner Course Exhibition???**
 
 ---
 
