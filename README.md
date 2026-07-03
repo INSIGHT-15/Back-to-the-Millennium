@@ -1,48 +1,61 @@
-# Back to the Millennium
+# 🖥️ Back to the Millennium
 
-> An interactive TouchDesigner installation inspired by the digital memories of the Windows XP era.
+> **An interactive TouchDesigner installation that recreates digital memories from Windows XP to Windows 11 through AI, gesture recognition and immersive interaction.**
 
-![cover](images/cover.png)
-
----
-
-## Overview
-
-**Back to the Millennium** is an interactive installation that recreates the nostalgic experience of Windows XP and gradually transitions users into the Windows 11 era.
-
-Instead of simply presenting old interfaces, the project encourages users to explore, communicate, and solve small puzzles through AI conversation, gesture recognition, speech recognition and multimedia interaction, ultimately experiencing the relationship between technological evolution and personal memory.
-
-This project was developed as an individual course project and received **First Place** in the final course exhibition.
+![Cover](images/cover.png)
 
 ---
 
-## Demo
+# 📖 Overview
 
-🎥 Demo Video
+**Back to the Millennium** is an interactive installation that explores how digital technology preserves our memories.
 
-(放demo.mp4或者gif)
+Inspired by the nostalgic Windows XP era, the experience guides users through a journey from **Windows XP** to **Windows 11**, combining classic desktop interactions with modern AI technologies.
 
----
-
-## Features
-
-- ✨ Windows XP → Windows 11 narrative transition
-- 🤖 AI-powered NPC conversation
-- ✋ Gesture recognition (MediaPipe)
-- 🎤 Speech recognition (UniASR)
-- 🖱 Interactive desktop exploration
-- 🎵 Gesture-controlled music playback
-- 💾 Hidden password puzzle
-- 💙 Windows Blue Screen transition
+Rather than simply recreating old operating systems, the project encourages users to explore familiar interfaces, communicate with an AI "online friend", discover hidden clues, and unlock the transition into a new digital era.
 
 ---
 
-## Technologies
+# 🎬 Interactive Preview
+
+## ✨ Windows XP Boot Animation
+
+Users reveal the Windows XP logo by making a fist, allowing particles to gather and gradually form the startup animation.
+
+![](images/loading.gif)
+
+---
+
+## ✋ Gesture-controlled Music Player
+
+Hand gestures are used to control multimedia playback, creating a more immersive interaction experience.
+
+![](images/music.gif)
+
+---
+
+## 🤖 AI-powered QQ Conversation
+
+Users communicate with an AI "online friend" to obtain clues and continue the story.
+
+![](images/aichat.gif)
+
+---
+
+## 💙 Windows Upgrade Sequence
+
+After entering the correct password, the system simulates a Windows Blue Screen before upgrading into Windows 11.
+
+![](images/update.gif)
+
+---
+
+# 🛠 Technologies
 
 - TouchDesigner
 - Python
 - MediaPipe
-- UniASR
+- UniASR Speech Recognition
 - ChatAI
 - CHOP Execute DAT
 - Timer CHOP
@@ -51,79 +64,91 @@ This project was developed as an individual course project and received **First 
 
 ---
 
-## Screenshots
+# 📷 Screenshots
 
 ### Windows XP Startup
 
-(图)
+![](images/xp_startup.png)
 
-### XP Desktop
+### Windows XP Desktop
 
-(图)
+![](images/xp_desktop.png)
 
-### AI Chat
+### AI Conversation
 
-(图)
+![](images/chat.png)
 
 ### Windows 11
 
-(图)
+![](images/windows11.png)
 
 ---
 
-## Design Concept
+# 💡 Design Concept
 
-Digital devices preserve much more than files—they also preserve memories.
+Digital devices preserve more than files—they preserve memories.
 
-This project uses Windows XP as a symbolic interface of the early Internet era. By combining nostalgic visual elements with modern AI interaction technologies, users are invited to rediscover forgotten digital memories and reflect on the relationship between technological progress and personal growth.
-
----
-
-## Interaction Flow
-
-1. Reveal the Windows XP logo through hand gestures.
-2. Enter the XP desktop.
-3. Explore multimedia applications.
-4. Chat with an AI "online friend".
-5. Discover the hidden password.
-6. Trigger the blue screen transition.
-7. Enter Windows 11 and revisit childhood memories.
+This project uses the Windows XP operating system as a symbolic representation of the early Internet era. Through gesture interaction, speech recognition and AI conversation, users revisit familiar digital experiences while reflecting on the relationship between technological evolution and personal growth.
 
 ---
 
-## My Contributions
+# 🎮 Interaction Flow
 
-- Designed the complete interaction flow.
-- Developed the TouchDesigner logic.
-- Implemented gesture-based interactions.
-- Integrated speech recognition.
-- Designed AI dialogue workflow.
-- Implemented scene switching and desktop interactions.
-- Created the final presentation and exhibition materials.
+```text
+Gesture Recognition
+        ↓
+XP Startup
+        ↓
+Desktop Exploration
+        ↓
+Music Interaction
+        ↓
+AI QQ Conversation
+        ↓
+Password Puzzle
+        ↓
+Blue Screen Transition
+        ↓
+Windows 11
+```
 
 ---
 
-## Project Poster
+# 👨‍💻 My Contributions
 
-(放PDF第一页那个海报)
+- Designed the overall interaction experience
+- Developed the TouchDesigner interaction logic
+- Implemented gesture-based interaction
+- Integrated AI dialogue workflow
+- Implemented speech recognition
+- Designed desktop exploration mechanics
+- Developed scene transitions and multimedia interaction
+- Designed the final presentation and exhibition materials
 
 ---
 
-## Future Improvements
+# 📄 Project Poster
 
-- Richer interaction scenarios
+![](images/poster.png)
+
+---
+
+# 🚀 Future Improvements
+
+- Richer interactive narratives
 - More nostalgic software simulations
-- Longer narrative experience
-- More collectible memory fragments
+- More AI-driven conversations
+- Longer storytelling experience
+- Additional collectible memory fragments
 
 ---
 
-## Award
+# 🏆 Award
 
-🏆 First Place in TouchDesigner Course Exhibition
+**🥇 First Place — TouchDesigner Course Exhibition**
 
 ---
 
-## License
+# 📜 License
 
-This project is intended for educational and portfolio purposes only.
+This repository is intended for portfolio and educational purposes only.
