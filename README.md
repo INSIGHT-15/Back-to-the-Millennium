@@ -163,9 +163,13 @@ Windows 11
 
 ---
 
-# 📄 Project Poster
+## 📦 Download
 
-> *(Coming soon)*
+由于文件较大，部分资源未上传。您可以通过以下链接下载体验：
+
+[百度网盘链接](https://pan.baidu.com/s/1YYXwaM-bjZHpgJVnqM3qBQ)
+
+提取码：imsb
 
 ---
 
@@ -189,8 +193,7 @@ Special thanks to the instructor who generously shared the TouchDesigner compone
 
 Finally, thank you to everyone who experienced the installation and provided valuable feedback during the course exhibition.
 
-ps.If you encounter a bug, please remember: it was probably there for artistic purposes. :)
-(what???)
+ps.If you encounter a bug, please remember: it was probably there for artistic purposes (what???)
 
 ---
 
